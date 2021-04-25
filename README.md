@@ -749,7 +749,7 @@ hit Deploy
 
 #
 
-> And we are here. So, it has a URL, but that is not the URL you want to use.  There’s “test” over there to the left. 
+> And we are here. So, it has a URL, but that is not the URL you want to use.  There’s the “test” over there to the left. 
 
 ### 5n     
 ### Amazon API Gateway     

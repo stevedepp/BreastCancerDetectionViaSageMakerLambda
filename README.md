@@ -209,7 +209,7 @@ tap “SageMaker Examples”
 
 #
 
-> Open up “Introduction to Applying Machine Learning”, then “Breast Cancer Prediction” notebook. Then tap on “Use”.
+> Open up “Introduction to Applying Machine Learning”, then “Breast Cancer Prediction” notebook, and then tap on “Use”.
 
 ### 3j     
 ### Amazon SageMaker     

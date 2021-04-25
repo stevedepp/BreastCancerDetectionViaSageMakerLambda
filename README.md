@@ -1,7 +1,7 @@
-# BreastCancerDetectionViaSageMakerLambda     
-tgif project: Breast Cancer detection via AWS SageMaker and Lambda     
+# Breast Cancer Detection Via SageMaker & Lambda in 84 steps      
+Another TGIF project     
 
-to hear my presentation, click on the visual below.
+Please click the video to hear sound or follow along with the slides and transcript below the video.
 
 ![demo](https://user-images.githubusercontent.com/38410965/111722556-722c8b00-8838-11eb-8ab8-fd7caa2d006e.mp4)
 

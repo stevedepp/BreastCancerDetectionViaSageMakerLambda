@@ -32,7 +32,7 @@ https://aws.amazon.com/blogs/machine-learning/call-an-amazon-sagemaker-model-end
 
 > OK. So, we start with IAM roles that are used later to allow Lambda to execute SageMaker endpoints for us.  
 
-### 1a     
+**1a**     
 ### IAM roles     
 create role      
 https://console.aws.amazon.com/iam/home?region=us-east-1#/roles     

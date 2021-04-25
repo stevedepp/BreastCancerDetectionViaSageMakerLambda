@@ -109,7 +109,7 @@ give it a name
 
 #
 
-> OK, onto the meat.  I won’t spend a lot of time on SageMaker notebooks per se.  Just touch on some of the salient points related to this exercise.  I’ll select Notebook instances here on this page.  
+> OK, onto the meat.  I won’t spend a lot of time on SageMaker notebooks per se, but just touch on some of the salient points related to this exercise.  I’ll select Notebook instances here on this page.  
 
 ### 3a     
 ### Amazon SageMaker     

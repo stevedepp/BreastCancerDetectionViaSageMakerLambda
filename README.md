@@ -332,6 +332,8 @@ Job name is: DEMO-linear-2020-05-29-14-05-07
 ### Amazon SageMaker     
 training * wall time = 4 min     
 
+<img width="1088" alt="breast-cancer-notebook notebook us-east-1 sagemaker an" src="https://user-images.githubusercontent.com/38410965/115999402-898a3100-a5b9-11eb-8760-0dcaa94ba108.png">
+
 #
 
 > Our hosted model will be in this ARN.  Now, I didn’t know what an ARN was.  
@@ -351,6 +353,8 @@ arn:aws:sagemaker:us-east-1:606363841935:model/demo-linear-2020-05-29-14-05-07
 ### Amazon SageMaker     
 you mean you didn’t know what an ARN is?     
 arn is Amazon Resource Name      
+
+<img width="1011" alt="Amazon Resource Names (ARNs)" src="https://user-images.githubusercontent.com/38410965/115999409-973fb680-a5b9-11eb-9176-3a42ea4fc6cb.png">
 
 #
 

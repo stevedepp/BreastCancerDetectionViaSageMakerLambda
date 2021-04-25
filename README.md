@@ -688,7 +688,7 @@ select POST and  (obviously) click the checkmark to move on
 
 #
 
-> If you give it the Lambda function name, and hit “Save”. 
+> If you give it the Lambda function name, andn then hit “Save”. 
 
 ### 5i     
 ### Amazon API Gateway     

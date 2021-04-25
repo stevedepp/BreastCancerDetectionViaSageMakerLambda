@@ -392,7 +392,7 @@ convert files to CSV
 
 #
 
-> So, now with Lambda, we’re going to let Lambda call SageMaker for us.  We need to set up the Lambda to begin with.  So, “Create function”. 
+> So, now with Lambda, we’re going to let Lambda call SageMaker for us.  We need to set up the Lambda function to begin with.  So, “Create function”. 
 
 ### 4a     
 ### AWS Lambda     

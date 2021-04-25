@@ -187,7 +187,7 @@ notebook bring created
 
 #
 
-> In about 3 minutes, you can tap on “Open Jupyter” ...
+> After about 3 minutes, you can tap on “Open Jupyter” ...
 
 ### 3h     
 ### Amazon SageMaker     

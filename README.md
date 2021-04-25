@@ -867,7 +867,7 @@ click on “linear_validation.data” *
 
 #
 
-> ... and then, you know, you can open up the data, or you know look at data, or save it, and then open it up, but on a Mac you can’t do that.  So, all I did was go back to Rumi’s blog, and there was a, you can see down here at the very bottom of her page, there’s a copy of some validation data. I just copied that over. 
+> ... and then, you know, you can open up the data, or, you know, look at data, or save it, and then open it up, but on a Mac you can’t do that.  So, all I did was go back to Rumi’s blog, and there was a, you can see down here at the very bottom of her page, there’s a copy of some validation data. I just copied that over. 
 
 ### 6g     
 ### Postman     

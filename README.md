@@ -431,10 +431,6 @@ https://aws.amazon.com/blogs/machine-learning/call-an-amazon-sagemaker-model-end
 
 #
 
-> Give Lambda the IAM execution role.  Now, this is really where I lost it.  Anyway.  Back here is says “IAM execution role that includes the following policy” and then it offers to do that for you, but I just cannot figure out where and how you set up a very specific policy like this. So, … 
-
-#
-
 > ... I just gave my policy the world, basically everything to do with SageMaker.
 
 ### 4d          

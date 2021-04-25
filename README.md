@@ -171,7 +171,7 @@ anyway, hit “Create role”
 ### 3f     
 ### Amazon SageMaker     
 I would rather create a more generic role     
-hit “Create Notebook Instance”      
+hit “Create Notebook Instance” 
 
 <img width="803" alt="Permissions and encryption" src="https://user-images.githubusercontent.com/38410965/115980485-2073d080-a55b-11eb-8b58-0f5438d32091.png">
 
@@ -192,7 +192,7 @@ notebook bring created
 ### 3h     
 ### Amazon SageMaker     
 after 3 minutes ...     
-tap “open Jupyter”      
+tap “Open Jupyter”      
 
 <img width="662" alt="Notebook instances" src="https://user-images.githubusercontent.com/38410965/115980501-3ed9cc00-a55b-11eb-8210-a1a070cec98a.png">
 

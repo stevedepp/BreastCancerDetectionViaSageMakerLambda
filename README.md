@@ -1,4 +1,4 @@
-# Breast Cancer Detection Via SageMaker & Lambda in 84 steps      
+# Breast Cancer Detection via SageMaker & Lambda in 84 steps      
 Another TGIF project     
 
 Please click the video to hear sound or follow along with the slides and transcript below the video.

@@ -3,6 +3,10 @@ Another TGIF project
 
 Please click the video to hear sound or follow along with the slides and transcript below the video.
 
+<video src="https://user-images.githubusercontent.com/38410965/111722556-722c8b00-8838-11eb-8ab8-fd7caa2d006e.mp4" autoplay controls loop muted style="max-width: 730px;">
+</video>
+
+
 ![demo](https://user-images.githubusercontent.com/38410965/111722556-722c8b00-8838-11eb-8ab8-fd7caa2d006e.mp4)
 
 #
